@@ -1,0 +1,4 @@
+{
+	"config.npm.autoDetect": "控制是否自動檢測npm腳本.預設為開啟.",
+	"config.npm.runSilent": "以 '--silent' 選項執行 npm 命令 "
+}

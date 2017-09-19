@@ -1,0 +1,10 @@
+[
+	"Estricto",
+	"Cargar solo el contenido seguro",
+	"Permitir contenido inseguro",
+	"Habilitar la carga del contenido sobre http",
+	"Deshabilitar",
+	"Permitir todo el contenido y la ejecución de scripts. No se recomienda.",
+	"Más información",
+	"Seleccione configuración de seguridad para las previsualizaciones de Markdown en esta área de trabajo"
+]

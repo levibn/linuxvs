@@ -1,0 +1,10 @@
+{
+	"messages": [
+		"There are no available repositories",
+		"Choose a repository"
+	],
+	"keys": [
+		"no repositories",
+		"pick repo"
+	]
+}

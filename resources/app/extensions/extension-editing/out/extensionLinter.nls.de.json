@@ -1,0 +1,9 @@
+[
+	"Für Bilder muss das HTTPS-Protokoll verwendet werden.",
+	"SVGs sind keine gültige Bildquelle.",
+	"Eingebettete SVGs sind keine gültige Bildquelle.",
+	"Daten-URLs sind keine gültige Bildquelle.",
+	"Relative Bild-URLs erfordern die Angabe eines Repositorys mit dem HTTPS-Protokoll in der Datei \"package.json\".",
+	"Ein Symbol erfordert die Angabe eines Repositorys mit dem HTTPS-Protokoll in dieser Datei \"package.json\".",
+	"Relative Badge-URLs erfordern die Angabe eines Repositorys mit dem HTTPS-Protokoll in dieser Datei \"package.json\"."
+]
