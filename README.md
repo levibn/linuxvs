@@ -11,8 +11,8 @@
 <p>Just run:</p>
 <blockquote>
 git clone https://github.com/levibn/linuxvs
+OR <a href="https://github.com/levibn/linuxvs/archive/master.zip">CLICK TO DOWNLOAD</a>
 </blockquote>
-OR <a href="/levibn/linuxvs/archive/master.zip">CLICK TO DOWNLOAD</a>
 
 <blockquote>
   <p><strong>Installed packs:</strong></p>
