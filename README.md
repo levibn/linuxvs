@@ -8,13 +8,11 @@
 
 <h2 id="installation-folder-and-files">Installation, folder and files</h2>
 
-<p>I created this application to use inside my project versioned by git, with her it’s easy to manage backups and versions among database inside git.</p>
-
-<p>For example, if I make changes in database I’ll execute a command to update script, commit and push this change. So another person thats work in same project just need execute a git pull and a comand to update her database.</p>
-
-<p>To setup PG Cool inside your project, just you download this file inside any folder you want.</p>
-
-<p>In my project and example below, is installed inside a folder named database</p>
+<p>Just run:</p>
+<blockquote>
+git clone https://github.com/levibn/linuxvs
+</blockquote>
+OR <a href="/levibn/linuxvs/archive/master.zip">CLICK TO DOWNLOAD</a>
 
 <blockquote>
   <p><strong>Installed packs:</strong></p>
