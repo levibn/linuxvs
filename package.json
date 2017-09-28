@@ -1,0 +1,20 @@
+{
+    "name": "linuxvs",
+    "version": "4.3.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "save": "node ./saveMyContext.js",
+        "install": "node ./install.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://quoti@bitbucket.org/quoti/quotifrontend.git"
+    },
+    "author": "Levi Nobrega",
+    "license": "UNLICENSED",
+    "homepage": "https://levinobrega.com",
+    "dependencies": {
+        "shelljs": "^0.7.7"
+    }
+}
