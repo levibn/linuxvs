@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "save": "node ./saveMyContext.js",
-    "install": "node ./install.js"
+    "i": "node ./install.js"
   },
   "repository": {
     "type": "git",
